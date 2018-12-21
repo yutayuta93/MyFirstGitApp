@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstGitApp</string>
+    <string name="msg">メッセージを入力してください</string>
+</resources>
