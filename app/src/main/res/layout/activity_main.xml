@@ -14,6 +14,6 @@
         android:hint="@string/msg"
         android:id="@+id/editText"/>
     <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
-            android:text="go" android:id="@+id/button"/>
+            android:text="@string/btnlbl_main" android:id="@+id/button"/>
 
 </LinearLayout>
