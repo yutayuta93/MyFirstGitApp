@@ -27,5 +27,8 @@ public class SecondActivity extends AppCompatActivity{
                 startActivity(intent);
             }
         });
+
+        //試験用コメントの挿入
+
     }
 }
